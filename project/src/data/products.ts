@@ -105,7 +105,7 @@ const products: Product[] = [
       'https://images.meesho.com/images/products/381302000/sxyhj_512.webp',
       'https://images.meesho.com/images/products/381302000/akyk1_512.webp'
     ],
-    category: 'Azure Chronos'
+    category: 'men'
   },
   {
     id: 'men-8',
@@ -456,7 +456,7 @@ const products: Product[] = [
   },
   {
     id: 'women-11',
-    name: 'Foksy',
+    name: 'Foksy Silver',
     rating: 4.9,
     sellingPrice: 999,
     mrp: 1999,
@@ -471,7 +471,7 @@ const products: Product[] = [
   },
   {
     id: 'women-12',
-    name: 'Foksy',
+    name: 'Foksy Pink',
     rating: 4.7,
     sellingPrice: 999,
     mrp: 1999,
@@ -486,7 +486,7 @@ const products: Product[] = [
   },
   {
     id: 'women-13',
-    name: 'Foksy',
+    name: 'Foksy Blue',
     rating: 4.8,
     sellingPrice: 999,
     mrp: 1999,
@@ -501,7 +501,7 @@ const products: Product[] = [
   },
   {
     id: 'women-14',
-    name: 'Foksy',
+    name: 'Foksy Black',
     rating: 4.6,
     sellingPrice: 999,
     mrp: 1999,
@@ -516,7 +516,7 @@ const products: Product[] = [
   },
   {
     id: 'women-15',
-    name: 'Foksy',
+    name: 'Foksy Dark Blue',
     rating: 4.9,
     sellingPrice: 999,
     mrp: 1999,
@@ -1801,8 +1801,8 @@ const products: Product[] = [
     id: 'party-20',
     name: 'Premium Quality Analog Watch',
     rating: 4.9,
-    sellingPrice: 10999,
-    mrp: 21999,
+    sellingPrice: 999,
+    mrp: 2999,
     images: [
       'https://images.meesho.com/images/products/545129902/n8rwt_512.webp',
       'https://images.meesho.com/images/products/545129902/n8rwt_512.webp',

@@ -8,6 +8,7 @@ interface ProductCardProps {
 }
 
 const ProductCard: React.FC<ProductCardProps> = ({ product, onOrderClick }) => {
+
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const nextImage = (e: React.MouseEvent) => {
@@ -21,7 +22,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, onOrderClick }) => {
   };
 
   const goToImage = (index: number, e: React.MouseEvent) => {
-    e.stopPropagation();
+    e.stopPropagation(); 
     setCurrentImageIndex(index);
   };
 
